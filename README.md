@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JosepCarbonell
-- 👀 I’m interested in marketing and coding.
-- 🌱 I’m currently learning to code.
+- 👀 I’m interested in marketing and frontend.
+- 🌱 I learned to code.
 - 📫 How to reach me: linkedin.com/in/josep-carbonell-4545511b8
 
 <!---
